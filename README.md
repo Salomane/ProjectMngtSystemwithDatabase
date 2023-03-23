@@ -18,7 +18,7 @@ For each project the following information is required:
 9. The name, telephone number, email address and physical address of the architect for the project.
 10. The name, telephone number, email address and physical address of the Structural engineer for the project.
 11. The name, telephone number, email address and physical address of the customer for the project.
-12. 11. The name, telephone number, email address and physical address of the Project manager for the project.
+12. The name, telephone number, email address and physical address of the Project manager for the project.
 	
 Classes are used to run this project. The Project class and Person class stores data which 
 is required for the project to execute. The Main class, is responsible for the execution.
